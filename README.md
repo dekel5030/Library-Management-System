@@ -71,21 +71,22 @@ To run the application:
 2. Ensure that all required dependencies are installed and the database is properly configured.
 3. Run the main application script.
 
+
 ## Screenshots
-![Main Window](images/Library window.png)
+![Main Window](images/Library_window.png)  
 *Main window of the Library Management System.*
 
-![Books Window](images/books window.png)
+![Books Window](images/books_window.png)  
 *Books management interface.*
 
-![Customer Window](images/customers window.png)
+![Customer Window](images/customers_window.png)  
 *Customer management interface.*
 
-![Customer Window](images/borrowing window.png)
+![Borrowing Window](images/borrowing_window.png)  
 *Borrowing management interface.*
 
-![Customer Window](images/Customer info window.png)
+![Customer Info Window](images/Customer_info_window.png)  
 *Customer info interface.*
 
-![Customer Window](images/manager.png)
+![Manager Interface](images/manager.png)  
 *Manager interface.*
