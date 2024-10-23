@@ -76,7 +76,7 @@ To run the application:
 ![Main Window](images/Library_window.png)  
 *Main window of the Library Management System.*
 
-![Books Window](images/books_window.png)  
+![Books Window](images/Books_window.png)  
 *Books management interface.*
 
 ![Customer Window](images/customers_window.png)  
@@ -90,3 +90,5 @@ To run the application:
 
 ![Manager Interface](images/manager.png)  
 *Manager interface.*
+
+
