@@ -79,16 +79,16 @@ To run the application:
 ![Books Window](images/Books_window.png)  
 *Books management interface.*
 
-![Customer Window](images/customers_window.png)  
+![Customer Window](images/Customers_window.png)  
 *Customer management interface.*
 
-![Borrowing Window](images/borrowing_window.png)  
+![Borrowing Window](images/Borrowing_window.png)  
 *Borrowing management interface.*
 
 ![Customer Info Window](images/Customer_info_window.png)  
 *Customer info interface.*
 
-![Manager Interface](images/manager.png)  
+![Manager Interface](images/Manager.png)  
 *Manager interface.*
 
 
